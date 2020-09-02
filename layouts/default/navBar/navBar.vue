@@ -32,7 +32,6 @@
   .nav-bar{
     display: flex;
     flex-direction: row;
-    margin: 0;
     padding: 0;
     list-style: none;
     align-items: center;
