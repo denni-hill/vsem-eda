@@ -3,7 +3,7 @@
 </template>
 
 <script>
-  import authActions from '@/components/authActions';
+  import authActions from '@/components/authActions/authActions';
   export default {
     components:{
       authActions

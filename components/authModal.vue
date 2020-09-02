@@ -8,7 +8,7 @@
     <text-input class="authModal__phone-number" v-model="phoneNumber">Введите номер телефона</text-input>
     <text-input class="authModal__sms" v-model="smsCode" placeholder="Введите код из СМС-сообщения"></text-input>
     <checkbox class="authModal__agreement">Указывая номер телефона, я принимаю условия <router-link to="#">пользовательского соглашения</router-link></checkbox>
-    <div class="authModal__login-button">Войти</div>
+    <div class="authModal__login-button" @click="logIn">Войти</div>
     <div class="authModal__sing-up-propose">В первый раз здесь? <router-link to="#">Зарегистрироваться</router-link></div>
   </modal>
 </template>
@@ -29,7 +29,7 @@
       this.$eventHub.$off("openAuthModal");
     },
     data(){
-      let displayModal = true;
+      let displayModal = false;
       let phoneNumber = "";
       let smsCode = "";
 
@@ -45,6 +45,10 @@
       },
       open(){
         this.displayModal = true;
+      },
+      logIn(){
+        this.$store.dispatch("user/logIn");
+        this.close();
       }
     }
   }
@@ -81,6 +85,7 @@
       font-weight: 600;
       font-size: 20px;
       margin-top: 20px;
+      cursor: pointer;
     }
     &__sing-up-propose{
       margin-top: 20px;

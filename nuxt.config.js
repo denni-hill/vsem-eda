@@ -35,7 +35,8 @@ export default {
   ** https://nuxtjs.org/guide/plugins
   */
   plugins: [
-    '~/plugins/eventHub.js'
+    '~/plugins/eventHub.js',
+    {src: '~/plugins/localStorage.js', ssr:false},
   ],
   /*
   ** Auto import components

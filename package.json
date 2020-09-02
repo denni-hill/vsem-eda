@@ -14,7 +14,8 @@
     "nuxt": "^2.14.0",
     "sass-loader": "^10.0.1",
     "vue-clickaway": "^2.2.2",
-    "vue-event-hub": "^1.0.3"
+    "vue-event-hub": "^1.0.3",
+    "vuex-persistedstate": "^3.1.0"
   },
   "devDependencies": {}
 }

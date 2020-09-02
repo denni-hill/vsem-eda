@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24.230057"
+   height="26"
+   viewBox="0 0 24.230057 26"
+   version="1.1"
+   id="svg19"
+   sodipodi:docname="deliveryAddresses.svg"
+   style="fill:none"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata23">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="648"
+     inkscape:window-height="480"
+     id="namedview21"
+     showgrid="false"
+     inkscape:zoom="9.0769231"
+     inkscape:cx="12.499756"
+     inkscape:cy="13"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg19" />
+  <g
+     clip-path="url(#clip0)"
+     id="g12"
+     transform="translate(-2.4408508e-4)">
+    <path
+       d="m 9.83046,24.2745 c -0.24883,0 -0.48496,-0.1092 -0.64644,-0.2986 L 2.05433,15.601 C 1.41347,14.8591 0.933585,14.0674 0.631437,13.2519 -0.505047,10.2847 -0.0906725,6.91438 1.74405,4.24633 3.60062,1.54781 6.54745,0 9.82995,0 c 3.22765,0 6.14555,1.50668 8.00615,4.13309 1.8434,2.60203 2.3222,5.92161 1.2817,8.87961 L 17.5167,12.4495 C 18.3749,10.01 17.9763,7.26832 16.4508,5.11418 14.9126,2.94277 12.4995,1.69762 9.82995,1.69762 c -2.71527,0 -5.15226,1.27968 -6.68687,3.51101 -1.51836,2.20746 -1.86317,4.99077 -0.9227,7.44557 0.23461,0.6332 0.61141,1.2502 1.12278,1.8428 l 6.48679,7.6198 0.96635,-1.136 1.2929,1.1004 -1.6128,1.8957 c -0.161,0.1879 -0.3976,0.2976 -0.64594,0.2976 z"
+       id="path2"
+       inkscape:connector-curvature="0"
+       style="fill:#000000" />
+    <path
+       d="m 9.82979,14.5418 c -2.62082,0 -4.75313,-2.1323 -4.75313,-4.75315 0,-2.62082 2.13231,-4.75313 4.75313,-4.75313 2.62081,0 4.75311,2.13231 4.75311,4.75313 0,2.62085 -2.1323,4.75315 -4.75311,4.75315 z m 0,-7.80815 c -1.68493,0 -3.05551,1.37058 -3.05551,3.05551 0,1.68494 1.37058,3.05554 3.05551,3.05554 1.68491,0 3.05551,-1.3706 3.05551,-3.05554 0,-1.68493 -1.3706,-3.05551 -3.05551,-3.05551 z"
+       id="path4"
+       inkscape:connector-curvature="0"
+       style="fill:#000000" />
+    <path
+       d="m 17.1291,26 c -3.9158,0 -7.1013,-3.1855 -7.1013,-7.1013 0,-3.9157 3.1855,-7.1012 7.1013,-7.1012 3.9157,0 7.1012,3.1855 7.1012,7.1012 0,3.9158 -3.1855,7.1013 -7.1012,7.1013 z m 0,-12.5049 c -2.9794,0 -5.4037,2.4238 -5.4037,5.4036 0,2.9799 2.4238,5.4042 5.4037,5.4042 2.9798,0 5.4041,-2.4238 5.4041,-5.4042 0,-2.9793 -2.4243,-5.4036 -5.4041,-5.4036 z"
+       id="path6"
+       inkscape:connector-curvature="0"
+       style="fill:#000000" />
+    <path
+       d="m 17.1291,23.1141 c -0.4687,0 -0.8486,-0.3798 -0.8486,-0.8485 v -6.1674 c 0,-0.4687 0.3799,-0.8486 0.8486,-0.8486 0.4687,0 0.8485,0.3799 0.8485,0.8486 v 6.1674 c 0,0.4687 -0.3793,0.8485 -0.8485,0.8485 z"
+       id="path8"
+       inkscape:connector-curvature="0"
+       style="fill:#000000" />
+    <path
+       d="m 19.9301,19.6625 c -0.2174,0 -0.4342,-0.0828 -0.6003,-0.2488 l -2.2008,-2.2004 -2.2004,2.2004 c -0.3311,0.3316 -0.8683,0.3316 -1.1999,0 -0.3316,-0.3311 -0.3316,-0.8684 0,-1.2 l 2.8006,-2.8011 c 0.3184,-0.3184 0.882,-0.3184 1.1999,0 l 2.8011,2.8011 c 0.3316,0.3311 0.3316,0.8689 0,1.2 -0.166,0.166 -0.3834,0.2488 -0.6002,0.2488 z"
+       id="path10"
+       inkscape:connector-curvature="0"
+       style="fill:#000000" />
+  </g>
+  <defs
+     id="defs17">
+    <clipPath
+       id="clip0">
+      <rect
+         width="24.230301"
+         height="26"
+         id="rect14"
+         x="0"
+         y="0"
+         style="fill:#ffffff" />
+    </clipPath>
+  </defs>
+</svg>
