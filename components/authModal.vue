@@ -73,6 +73,9 @@
     }
     &__agreement{
       margin-top: 20px;
+      a{
+        text-decoration: none;
+      }
     }
     &__login-button{
       height: 50px;
