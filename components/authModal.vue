@@ -9,7 +9,7 @@
     <text-input class="authModal__sms" v-model="smsCode" placeholder="Введите код из СМС-сообщения"></text-input>
     <checkbox class="authModal__agreement">Указывая номер телефона, я принимаю условия <router-link to="#">пользовательского соглашения</router-link></checkbox>
     <div class="authModal__login-button" @click="logIn">Войти</div>
-    <div class="authModal__sing-up-propose">В первый раз здесь? <router-link to="#">Зарегистрироваться</router-link></div>
+    <div class="authModal__sing-up-propose">В первый раз здесь? <router-link class="authModal__sing-up-propose__register-link" to="#">Зарегистрироваться</router-link></div>
   </modal>
 </template>
 
@@ -90,6 +90,12 @@
     &__sing-up-propose{
       margin-top: 20px;
       text-align: center;
+      font-weight: 600;
+      font-size: 18px;
+      &__register-link{
+        color: black !important;
+        text-decoration: none;
+      }
     }
   }
 </style>
